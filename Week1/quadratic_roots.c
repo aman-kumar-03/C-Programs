@@ -1,3 +1,5 @@
+// Find all the roots of a quadratic equation ax^2 + bx + c = 0.
+
 #include <stdio.h>
 #include <math.h>
 

@@ -1,3 +1,5 @@
+// Determine and output whether number N is even or odd.
+
 #include <stdio.h>
 
 int main()

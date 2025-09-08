@@ -1,3 +1,5 @@
+// Calculate the remainder and the quotient of two given numbers.
+
 #include <stdio.h>
 
 int main()

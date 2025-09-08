@@ -1,3 +1,5 @@
+// Find the largest among three different numbers entered by user.
+
 #include <stdio.h>
 
 int main()

@@ -1,3 +1,5 @@
+// Generate even numbers between 100 and 200.
+
 #include <stdio.h>
 
 int main()
