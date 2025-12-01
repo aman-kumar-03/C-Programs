@@ -1,0 +1,2 @@
+This is a sample text written to the file.
+File operations in C are safe when used correctly.
